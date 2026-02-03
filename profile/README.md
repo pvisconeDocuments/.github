@@ -5,7 +5,7 @@
 # L1T
 
 # Scouting
-- [2026_02_05-XeeV3](https://github.com/pvisconeDocuments/Scouting-XeeV3-05_02_2026)
+- [2026_02_05-XeeV3](https://github.com/pvisconeDocuments/Scouting-2026_02_05-XeeV3)
 
 # Xee
 

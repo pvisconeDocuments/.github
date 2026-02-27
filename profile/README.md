@@ -20,7 +20,6 @@
 # L1 Scouting
 
 ### Internal meetings
-- [2026_02_05-XeeV3](https://github.com/pvisconeDocuments/Scouting-2026_02_05-XeeV3)
 
 ---
 

@@ -4,6 +4,8 @@
 
 ### L1 DPG
 
+- [2026_03_04-MCTruth_workshop](https://github.com/pvisconeDocuments/L1DPG-2026_03_04-MCTruth_workshop)
+
 ### CMG L1 meeting
 
 ### L1T e/gamma algorithms meeting

@@ -20,7 +20,7 @@
 ---
 
 # L1 Scouting
-
+- [2026_03_24: L1DSWorkshop Dielectron and Dimuon searches](https://github.com/pvisconeDocuments/L1Scouting-2026_03_24-L1DSWorkshop_Dielectron_Dimuon_searches)
 ### Internal meetings
 - [2026_03_12: First limit](https://github.com/pvisconeDocuments/L1Scouting-2026_03_12-Internal_First_Limit)
 ---

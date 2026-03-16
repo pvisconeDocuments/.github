@@ -31,7 +31,13 @@
  - [2026_02_25: Updated on Double Electron Nano and sample production](https://github.com/pvisconeDocuments/Xee-2026_02_25-Updates_on_DoubleElectronNano_and_sample_production)
 
 ---
+# UZH
+## Other
 
+## Teaching
+- [PHY451 2026_03_31: Intro to MVA](https://github.com/pvisconeDocuments/UZH_Teaching_PHY451-2026_03_31-MVA_Intro)
+
+---
 # Templates
 - [Notes-Latex-Template](https://github.com/pvisconeDocuments/Notes-Latex-Template)
 - [cms-slides-typst-template](https://github.com/pviscone/cms-slides-typst-template)

@@ -34,7 +34,7 @@
 # UZH
 
 ## PhD committee meeting
-- [PhDCommittee 2026_04_09: 2nd PhD committee meeting](https://github.com/pvisconeDocuments/UZH_PhDCommittee-2026_04_09-2nd_PhD_committee_meeting)
+- [2026_04_09: 2nd PhD committee meeting](https://github.com/pvisconeDocuments/UZH_PhDCommittee-2026_04_09-2nd_PhD_committee_meeting)
 
 ## Teaching
 - [PHY451 2026_03_31: Intro to MVA](https://github.com/pvisconeDocuments/UZH_Teaching_PHY451-2026_03_31-MVA_Intro)

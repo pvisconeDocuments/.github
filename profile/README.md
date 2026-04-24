@@ -29,6 +29,7 @@
 
 ### Internal meetings
  - [2026_02_25: Updated on Double Electron Nano and sample production](https://github.com/pvisconeDocuments/Xee-2026_02_25-Updates_on_DoubleElectronNano_and_sample_production)
+ - [2026_04_22: VBF_Signal_Efficiencies_and_Yields](https://github.com/pvisconeDocuments/Xee-2026_04_22-VBF_Efficiencies_and_Yields)
 
 ---
 # UZH

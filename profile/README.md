@@ -39,6 +39,7 @@
 
 ## Teaching
 - [PHY451 2026_03_31: Intro to MVA](https://github.com/pvisconeDocuments/UZH_Teaching_PHY451-2026_03_31-MVA_Intro)
+- [PHY451 2026_05_26 ttbar_xsec](https://github.com/pvisconeDocuments/UZH_Teaching_PHY451-2026_05_26-ttbar_xsec)
 
 ---
 # Templates
